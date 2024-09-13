@@ -5,3 +5,5 @@ Suddenly, the room around me starts to shimmer and blur. I feel a strange sensat
 I look down at the hourglass in my hand, now empty of sand. It seems to have transported me to a different era. As I take in my surroundings, I notice a group of people gathered around a storyteller, who is recounting tales of heroes and mythical creatures. I decide to approach and listen, hoping to learn more about this place and perhaps find a way back to my own time.
 
 As the storyteller finishes, he looks directly at me and smiles. “Ah, a traveler from afar,” he says. “You hold the key to many secrets. Come, let us talk.”
+
+To be continued...
