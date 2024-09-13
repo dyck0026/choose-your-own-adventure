@@ -2,4 +2,4 @@ You wake up to blinding white lights and a blinding headache; slowly pulling you
 
 What do you investigate?
 
-- [The Door](https://github.com/dyck0026/choose-your-own-adventure/stephanie/stephanie-choice-1)
+- [The Door](the-door.md)
