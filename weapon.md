@@ -1,0 +1,3 @@
+As you walk up to the table on your right, you notice a strange blade about the size of your hand. You notice the bone-coloured blade is emitting a faint buzzing noise as you stand right next to it. 
+
+As you reach out to inspect the blade more closely, the buzzing intensifies, sending a strange warmth up your arm. The blade seems to pulse with a life of its own, and as your fingers brush its hilt, a sudden flash of images invades your mind—flickering scenes of ancient battles, shadowy figures wielding the weapon, and a voice, distant but clear, whispering your name. The air around you thickens, as if reality itself is bending in response to the blade’s presence, waiting for your next move.
