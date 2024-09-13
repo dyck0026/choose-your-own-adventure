@@ -9,3 +9,6 @@ Where do you look?
 - [The door](the-door.md)
 
 - [The strange weapon of unknown origin](weapon.md)
+
+- [Try to Guess the Password](guess_password.md)
+
