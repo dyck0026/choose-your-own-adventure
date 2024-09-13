@@ -7,3 +7,5 @@ What do you investigate?
 - [The futuristic computer](computer.md)
 
 - [The door](the-door.md)
+
+- [The strange weapon of unknown origin](weapon.md)
