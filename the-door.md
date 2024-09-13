@@ -2,3 +2,6 @@ You get up from the examination table and walk over the door. Once you get a lit
 
 Do you aproach the Statue?
 
+- [Yes](statue.md)
+
+- [No](turn-away.md)

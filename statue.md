@@ -1,0 +1,3 @@
+You walk definitively towards the statue, feeling like it's calling out to you; as you approach, golden lights begin to swirl around it's base. You climb the stairs in front, and stop just before the statue, marveling at it's glow. You extend a hand to touch the statue, and the moment your fingertip reachs it, you feel a foreign and wonderous warmth spread through you. Shimmering golden lines rapidly spread accross your skin, and the statue dissolves into a strange portal. 
+
+Enter the portal?
