@@ -2,4 +2,8 @@ You wake up to blinding white lights and a blinding headache; slowly pulling you
 
 What do you investigate?
 
-- [The Door](the-door.md)
+- [The golden hourglass](golden-hourglass.md)
+
+- [The futuristic computer](computer.md)
+
+- [The door](the-door.md)
