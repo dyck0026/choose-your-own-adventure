@@ -1,0 +1,1 @@
+As you sit in front of the futuristic computer, you notice the prompt asking for a password. You decide to take a guess. The screen displays a hint: “The key lies in the past.”
